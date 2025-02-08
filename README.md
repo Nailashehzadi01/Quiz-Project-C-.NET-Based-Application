@@ -1,4 +1,4 @@
-# Quiz-Project-C-.NET-Based-Application
+# Quiz-Project:C# .NET-Based-Application
 .1. Introduction
 
 This document provides an overview of the Interactive Quiz Application, developed using C# and the .NET Framework in Visual Studio 2022. The application is designed to test users' knowledge with multiple-choice questions at varying difficulty levels.
